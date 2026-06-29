@@ -17,9 +17,41 @@ Here are some ideas to get you started:
 
 # Hi, I'm Sairaj Japu 👋
 
-🔐 Cybersecurity Enthusiast | SOC Analyst | VAPT | Threat Intelligence | Digital Forensics
+🔐 Cybersecurity Enthusiast | VAPT | Threat Intelligence | Digital Forensics | Algorand Blockchain Developer
 
-Passionate about securing digital environments through Security Operations, Vulnerability Assessment & Penetration Testing, Threat Intelligence, and Digital Forensics. I enjoy building security-focused projects, analyzing threats, and continuously expanding my knowledge in cybersecurity.
+---
+
+Driven cybersecurity professional and blockchain developer with a strong foundation in Security Operations, Vulnerability Assessment & Penetration Testing (VAPT), Threat Intelligence, Digital Forensics, and secure application development. Passionate about identifying security risks, strengthening defensive capabilities, and building innovative solutions that enhance digital trust and resilience.
+
+---
+## 🚀 Areas of Expertise
+
+### Cybersecurity
+
+* Vulnerability Assessment & Penetration Testing
+* Threat Hunting & Threat Intelligence
+* Digital Forensics & Investigation
+* Network Security & Risk Assessment
+
+### Blockchain Development
+
+* Algorand Blockchain Development
+* Smart Contract Development
+* Decentralized Applications (dApps)
+* Blockchain Security Concepts
+* Web3 Technologies
+
+### Software Development
+
+* Python
+* Flask & Django
+* SQL & Database Management
+* Web Application Development
+* Security Automation
+
+---
+
+
 
 ## 🚀 Current Focus
 - Security Operations Center (SOC)
@@ -33,7 +65,7 @@ Passionate about securing digital environments through Security Operations, Vuln
 - Networking & Information Security
 - Linux & Windows Administration
 - Python, Flask, SQL
-- Splunk, Wireshark, Nmap
+- Wireshark, Nmap
 - OWASP Top 10
 - Incident Response & Threat Hunting
 
@@ -44,8 +76,10 @@ Passionate about securing digital environments through Security Operations, Vuln
 - Detection Engineering
 - DFIR
 
+---
+
 ## 📫 Connect With Me
-- LinkedIn: Your LinkedIn URL
-- GitHub: Your GitHub URL
+- LinkedIn: https://www.linkedin.com/in/sairajjapu/
+- GitHub: https://github.com/japusairaj
 
 > "Security is not a product, but a process."
